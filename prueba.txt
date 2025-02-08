@@ -1,0 +1,7 @@
+Vamos a introducir varios comandos de GitHub de prueba para este pryecto final de Aplicaciones Web, estos son los comandos básicos a probar:
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/RaulRivas04/ProyectoFinal_AplicacionesWeb.git
+git push -u origin main
